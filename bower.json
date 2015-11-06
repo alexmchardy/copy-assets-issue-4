@@ -1,0 +1,18 @@
+{
+  "name": "copy-assets-issue-4",
+  "version": "0.0.0",
+  "authors": [
+    "Alex McHardy <amchardy@shutterstock.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootswatch": "~3.3.5"
+  }
+}
